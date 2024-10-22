@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glariums.github.io/glariums.txt.gz
+Sitemap: https://glariums.github.io/app/glariums.txt.gz
+Sitemap: https://glariums.github.io/assets/glariums.txt.gz
+Sitemap: https://glariums.github.io/css/glariums.txt.gz
+Sitemap: https://glariums.github.io/includes/glariums.txt.gz
+Sitemap: https://glariums.github.io/item/glariums.txt.gz
+Sitemap: https://glariums.github.io/src/glariums.txt.gz
